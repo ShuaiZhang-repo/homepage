@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Post-Doctoral Research Fellow at Surgical Robot Vision Group, WEISS, University College London, UK. My research focuses on surgical robotics simultaneous localization and mapping (SLAM), with emphasis on endoscopic 3D reconstruction and fluoroscopy guided orthopedic surgical system. I studied my Ph.D. in the <a href="https://www.uts.edu.au/research/robotics-institute/">Robotics Institute</a>, University of Technology Sydney, Australia, where I work on robots SLAM, surgical robotics, and optimization techniques in mobile robot localization
+and mapping and image guide robotic surgery. I am co-advised by Dr. <a href="https://profiles.uts.edu.au/Liang.Zhao">Liang Zhao</a></a> and Prof. <a href="https://profiles.uts.edu.au/Shoudong.Huang">Shoudong Huang</a></a>.
 
 A data-driven personal website
 ======
